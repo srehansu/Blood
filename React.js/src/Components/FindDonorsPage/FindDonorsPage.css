@@ -1,0 +1,39 @@
+/* FindDonorsPage.css */
+
+.find-donors-page {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .find-donors-page h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .find-donors-page form {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .find-donors-page input[type='text'] {
+    flex: 1;
+    padding: 10px;
+    font-size: 16px;
+  }
+  
+  .find-donors-page button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .find-donors-page button:hover {
+    background-color: #0056b3;
+  }
+  
+  /* Add more styles as needed */
+  
